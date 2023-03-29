@@ -1,5 +1,22 @@
-body{background-color: yellow}
+*{border:1px solid blueviolet;}
 
-h1{color: blue; font-size: 100px;} /*Poner siempre punto y coma al final*/
+body{ background-color: yellow;}
 
+#titular{color: red; font-size: 100px;} /*Poner siempre punto y coma al final, para los colores voy a la w3school
+a la parte de css y veo los nombres */
 
+.elemento {color:white}
+
+.margenes {margin-top: 50px;}
+
+ul {list-style-type: none; 
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;}
+
+li a {display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;}
