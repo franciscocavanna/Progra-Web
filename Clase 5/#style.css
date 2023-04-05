@@ -1,12 +1,12 @@
-*{border:1px solid blueviolet; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+*{border:1px solid blueviolet; font-family: 'Times New Roman', Times, serif;}
 
 body{ background-color: white;}
 
-#titular{color: black; font-size: 100px;} /*Poner siempre punto y coma al final, para los colores voy a la w3school
+#titular{color: black; font-size: 50px;} /*Poner siempre punto y coma al final, para los colores voy a la w3school
 a la parte de css y veo los nombres */
 
 .elemento {color:black}
-.margenes {margin-top: 50px;}
+.margenes {margin-top: 100px;}
 
 ul {list-style-type: none; 
 margin: 0;
