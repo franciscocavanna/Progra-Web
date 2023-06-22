@@ -11,20 +11,20 @@ if (toastTrigger) {
 const baseDeDatos = [
 {
     id: 1,
-    nombre: 'Habitaciones Normales',
-    precio: 500,
+    nombre: 'DOBLES',
+    precio: 1000,
     imagen: ''
 },
 {
     id: 2,
-    nombre: 'Habitaciones Junior',
-    precio: 800,
+    nombre: 'SINGLES',
+    precio: 1500,
     imagen: ''
 },
 {
     id: 3,
-    nombre: 'Habitaciones Suites',
-    precio: 1100,
+    nombre: 'SUITES',
+    precio: 2000,
     imagen: ''
 },
 
