@@ -1,4 +1,6 @@
-*{
+
+
+* {
     margin: 0;
     padding: 0;
     border: 0;
@@ -11,6 +13,8 @@ body {
     font-family: sans-serif;
 }
 
+
+
 .head {
     display: flex;
     align-items: center;
@@ -21,7 +25,6 @@ body {
     width: 100%;
     z-index: 100;
     padding: 5px;
-
 }
 
 .navbar {
@@ -33,12 +36,13 @@ body {
     margin-left: 30px;
 }
 
-.logo a{
+.logo a {
     text-decoration: none;
     color: #060606;
     text-transform: uppercase;
     font-size: 20px;
 }
+
 .navbar a {
     display: block;
     padding: 20px 20px;
